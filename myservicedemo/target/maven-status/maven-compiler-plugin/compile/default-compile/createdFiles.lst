@@ -1,0 +1,5 @@
+com/oelprince/myservicedemo/orchestration/OrchestrationManager.class
+com/oelprince/myservicedemo/JAXRSConfiguration.class
+com/oelprince/myservicedemo/orchestration/Consumer.class
+com/oelprince/myservicedemo/ProcessingService.class
+com/oelprince/myservicedemo/orchestration/Producer.class
